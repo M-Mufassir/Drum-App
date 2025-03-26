@@ -1,2 +1,2 @@
 # Drum-App
-Drums App which used basic Web development technologies
+Basic Drums App which used basic Web development technologies
